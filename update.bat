@@ -1,4 +1,4 @@
 chcp 65001
 git add --all
-git commit -m "IdleRPG 실행 파일 공개"
+git commit -m "레이저 사이렌 게임 추가"
 git push -u origin master
